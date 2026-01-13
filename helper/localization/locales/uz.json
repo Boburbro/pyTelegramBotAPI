@@ -1,0 +1,4 @@
+{
+    "greeting": "Assalomu alaykum, {name}! Botimizga xush kelibsiz!",
+    "help": "Yordam:\n/start - botni qayta ishga tushirish\n/help - yordam"
+}

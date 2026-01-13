@@ -1,0 +1,4 @@
+aiohttp==3.13.3
+environs==14.5.0
+pyTelegramBotAPI==4.29.1
+

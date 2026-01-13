@@ -1,0 +1,4 @@
+{
+    "greeting": "Hello, {name}! Welcome to our bot!",
+    "help": "Help:\n/start - restart the bot\n/help - help"
+}
